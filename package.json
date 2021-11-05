@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "axios": "^0.24.0",
+    "deta": "^1.0.1",
+    "discord.js": "12",
+    "fastify": "^3.23.0",
+    "fastify-autoload": "^3.9.0",
+    "fastify-plugin": "^3.0.0",
+    "fastify-raw-body": "^3.1.0",
+    "fastify-sensible": "^3.1.2",
+    "node-fetch": "^3.0.0",
+    "tweetnacl": "^1.0.3",
+    "walk-sync": "^3.0.0"
+  },
+  "name": "bottest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
